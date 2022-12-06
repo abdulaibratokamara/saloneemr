@@ -1,0 +1,6 @@
+org/openmrs/module/saloneemr/api/dao/SaloneEMRDao.class
+org/openmrs/module/saloneemr/api/impl/SaloneEMRServiceImpl.class
+org/openmrs/module/saloneemr/api/SaloneEMRService.class
+org/openmrs/module/saloneemr/SaloneEMRConfig.class
+org/openmrs/module/saloneemr/SaloneEMRActivator.class
+org/openmrs/module/saloneemr/Item.class

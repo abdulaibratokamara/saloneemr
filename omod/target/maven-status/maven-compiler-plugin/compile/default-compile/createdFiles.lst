@@ -1,0 +1,3 @@
+org/openmrs/module/saloneemr/web/controller/SaloneEMRController.class
+org/openmrs/module/saloneemr/extension/html/AdminList.class
+org/openmrs/module/saloneemr/fragment/controller/UsersFragmentController.class
